@@ -1,0 +1,11 @@
+{
+  "name": "wine-label-generator",
+  "version": "1.0.0",
+  "description": "AI-powered wine label copy generator by Kae Yen Wong",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": ["wine", "AI", "copywriting", "portfolio"],
+  "author": "Kae Yen Wong"
+}
